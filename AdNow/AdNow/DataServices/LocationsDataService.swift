@@ -2,7 +2,7 @@
 //  LocationsDataService.swift
 //  MapTest
 //
-//  Created by Shlok Singi on 26-04-23
+
 //
 
 import Foundation
